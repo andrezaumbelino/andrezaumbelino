@@ -45,11 +45,11 @@ With a background in **business operations and customer success**, I'm transitio
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrezaumbelino&show_icons=true&theme=radical" alt="github stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?andrezaumbelino=andrezaumbelino&layout=compact&theme=radical" alt="top languages"/>
 </p>
 
 ---
