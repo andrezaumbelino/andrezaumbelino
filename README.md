@@ -36,7 +36,3 @@ With a background in business operations and customer success, I'm transitioning
 ### 🚀 Current Focus
 - Strengthening SQL & Data Engineering fundamentals
 - Creating a portfolio with real-world datasets
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer"/>
-</p>
