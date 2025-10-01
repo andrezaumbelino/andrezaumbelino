@@ -20,7 +20,14 @@ With a background in business operations and customer success, I'm transitioning
   <a href="mailto:andrezaumbelino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/andrezaumbelino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://troopl.com/augustasantos" target="_blank">
+    <img src="https://img.shields.io/badge/Troopl-Portfolio-blueviolet?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
