@@ -3,10 +3,12 @@
 </p>
 
 ### 👩🏾‍💻 About Me
-Hi! I'm **Andreza Santos**, a Data Science graduate from Le Wagon Bootcamp.  
-With a background in business operations and customer success, I'm transitioning into Data Science to apply Python, SQL, and Machine Learning to solve real-world problems and support data-driven strategies.  
+Hi! I'm **Andreza Santos**, a **Data Analyst** passionate about turning complex data into actionable insights that drive business performance.  
+With a strong background in **business operations and customer success**, I combine analytical thinking with a practical understanding of how data supports real-world decision-making.  
 
-**Currently open to opportunities** as a Data Analyst / Business Analyst where I can create business impact with SQL, Python, Power BI, and data-driven process improvement.
+I completed the **Le Wagon Data Science Bootcamp** (360h), where I strengthened my skills in **Python, SQL, and data visualization**. Since then, I’ve been focused on developing **BI dashboards, KPI tracking systems, and analytics workflows** to improve efficiency and optimize processes.  
+
+**Currently open to Data Analyst and Business Analyst opportunities**, where I can apply Python, SQL, and Power BI to build data-driven solutions that generate measurable business impact.
 
 ---
 
@@ -21,7 +23,7 @@ With a background in business operations and customer success, I'm transitioning
   <a href="mailto:andrezaumbelino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://troopl.com/andrezaumbelino" target="_blank">
+  <a href="https://troopl.com/augustasantos" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-blueviolet?style=for-the-badge&logo=briefcase&logoColor=white"/>
   </a>
 </p>
@@ -29,18 +31,19 @@ With a background in business operations and customer success, I'm transitioning
 ---
 
 ### ⚡ Skills
-- Python (Pandas, NumPy, scikit-learn)  
-- SQL & Databases  
-- Data Analysis & Visualization (Power BI, Matplotlib, Seaborn, Plotly)  
-- Machine Learning (Classification, Regression, Clustering)  
-- Cloud: AWS & GCP (learning in progress)  
+- **Python** (Pandas, NumPy, scikit-learn)  
+- **SQL & Databases**  
+- **Data Visualization** (Power BI, Matplotlib, Seaborn, Plotly)  
+- **Machine Learning for Analytics** (classification, regression, clustering)  
+- **KPI Tracking & Business Intelligence**
 
 ---
 
 ### 🚀 Current Focus
-- Developing **CS Analytics**, an end-to-end Data Science solution to optimize Customer Success operations.  
-  - Goal: predict client interactions, calculate workload scores, and fairly distribute new clients.  
-  - Phase 1: ETL + Predictive Modeling & Automatic Distribution (building dataset, cleaning data, training models, scoring system).  
-  - Next steps: Power BI dashboards for portfolio analysis + monthly performance tracking.  
-- Combining my background in **Customer Success** with **Data Science** skills to deliver a practical business solution.  
+- Developing **CS Analytics**, a BI project designed to optimize **Customer Success operations**.  
+  - Builds ETL pipelines, automates workload tracking, and creates KPI dashboards in Power BI.  
+  - Improves visibility of performance metrics and helps predict portfolio workload distribution.  
+- Combining my **operational background** with **data analytics** to build solutions that improve efficiency, transparency, and business outcomes.
+
+
 
