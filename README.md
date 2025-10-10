@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/ewt6qj.png" alt="Andreza Santos Header" width="1000"/>
+  <img src="https://files.catbox.moe/lcf8f8.png" alt="Andreza Santos Header" width="1000"/>
 </p>
 
 ### 👩🏾‍💻 About Me
