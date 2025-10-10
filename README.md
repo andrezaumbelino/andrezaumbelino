@@ -3,7 +3,7 @@
 </p>
 
 ### 👩🏾‍💻 About Me
-Hi! I'm **Andreza Santos**, a **Data Analyst** passionate about turning complex data into actionable insights that drive business performance.  
+Hi! I'm **Andreza Umbelino**, a **Data Analyst** passionate about turning complex data into actionable insights that drive business performance.  
 With a strong background in **business operations and customer success**, I combine analytical thinking with a practical understanding of how data supports real-world decision-making.  
 
 I completed the **Le Wagon Data Science Bootcamp** (360h), where I strengthened my skills in **Python, SQL, and data visualization**. Since then, I’ve been focused on developing **BI dashboards, KPI tracking systems, and analytics workflows** to improve efficiency and optimize processes.  
