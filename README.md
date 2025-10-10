@@ -12,7 +12,7 @@ With a background in business operations and customer success, I'm transitioning
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/augustasantos" target="_blank">
+  <a href="https://www.linkedin.com/in/andrezaumbelino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/andreza.u" target="_blank">
@@ -21,7 +21,7 @@ With a background in business operations and customer success, I'm transitioning
   <a href="mailto:andrezaumbelino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://troopl.com/augustasantos" target="_blank">
+  <a href="https://troopl.com/andrezaumbelino" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-blueviolet?style=for-the-badge&logo=briefcase&logoColor=white"/>
   </a>
 </p>
