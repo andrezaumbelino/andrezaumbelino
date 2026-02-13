@@ -15,9 +15,8 @@ With experience in BI architecture, SQL modeling, and dashboard development, I f
 ---
 
 ## 📊 Featured Project  
-### [Pipedrive BI Data Pipeline - Atlantic Bridge](https://github.com/andrezaumbelino/ab-bi-data-pipeline)
-
-**Python | BigQuery | SQL | Looker Studio**
+### Pipedrive BI Data Pipeline - Atlantic Bridge
+**Python | BigQuery | SQL | Looker Studio** - [Project link](https://github.com/andrezaumbelino/ab-bi-data-pipeline)
 
 End-to-end CRM data pipeline extracting data from the Pipedrive API and loading it into Google BigQuery for analytics and dashboarding.
 
