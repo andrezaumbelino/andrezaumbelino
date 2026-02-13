@@ -2,14 +2,53 @@
   <img src="https://files.catbox.moe/ewt6qj.png" alt="Andreza Umbelino Header" width="1000"/>
 </p>
 
-### 👩🏾‍💻 About Me
-Hi! I'm **Andreza Umbelino**, a **Data Analyst** passionate about transforming complex data into actionable insights that drive smarter and more efficient business decisions.  
+# 👩🏾‍💻 Andreza Umbelino  
+**Data Analyst | Business Intelligence | Data Engineering**  
+📍 Lisbon, Portugal  
 
-With a strong background in **business operations and customer success**, I bridge the gap between data and decision-making by building analytics workflows that improve efficiency and process visibility.  
+## About Me
 
-I completed the **Le Wagon Bootcamp** (360h), where I strengthened my skills in **Python, SQL, and data visualization**. Since then, I’ve been focused on developing **BI dashboards, KPI tracking systems, and analytics workflows** to optimize processes and support data-driven strategies.  
+I build data pipelines and analytics systems that turn operational data into structured, decision-ready datasets.
 
-**Currently open to Data Analyst and Business Analyst opportunities**, where I can apply **Python, SQL, and Power BI** to create data-driven solutions that generate measurable business impact.
+With experience in BI architecture, SQL modeling, and dashboard development, I focus on creating scalable data environments that drive measurable business impact.
+
+---
+
+## 📊 Featured Project  
+### [Pipedrive BI Data Pipeline - Atlantic Bridge](https://github.com/andrezaumbelino/ab-bi-data-pipeline)
+
+**Python | BigQuery | SQL | Looker Studio**
+
+End-to-end CRM data pipeline extracting data from the Pipedrive API and loading it into Google BigQuery for analytics and dashboarding.
+
+**Architecture:**
+Pipedrive API → Python (ETL) → BigQuery (Raw) → SQL (Dim/Fact) → Looker Studio
+
+✔ Modular ETL design  
+✔ Data modeling (star schema)  
+✔ KPI-ready datasets  
+✔ BI-optimized dashboards  
+
+*All data is simulated and anonymized for portfolio purposes.*
+
+---
+
+### ⚡ Skills
+- **ETL & Data Modeling**  
+- **Python** (Pandas, NumPy, Scikit-learn)  
+- **SQL & Databases** (Google BigQuery)  
+- **Power BI & Looker Studio**  
+- **Data Visualization** (Matplotlib, Seaborn, Plotly)  
+- **KPI Tracking & Business Intelligence**  
+- **Machine Learning for Analytics** (Classification, Regression, Clustering)  
+
+---
+
+## 📈 Current Focus
+- CRM & Business Intelligence  
+- Analytics Engineering  
+- Performance KPI Optimization  
+- Scalable Data Pipelines  
 
 ---
 
@@ -18,31 +57,10 @@ I completed the **Le Wagon Bootcamp** (360h), where I strengthened my skills in 
   <a href="https://www.linkedin.com/in/andrezaumbelino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/andreza.u" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:andrezaumbelino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://troopl.com/augustasantos" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-blueviolet?style=for-the-badge&logo=briefcase&logoColor=white"/>
   </a>
 </p>
-
----
-
-### ⚡ Skills
-- **Python** (Pandas, NumPy, scikit-learn)  
-- **SQL & Databases**  
-- **Power BI & Data Visualization** (Matplotlib, Seaborn, Plotly)  
-- **KPI Tracking & Business Intelligence**  
-- **Machine Learning for Analytics** (classification, regression, clustering)
-
----
-
-### 🚀 Current Focus
-- Developing **CS Analytics**, a BI project designed to optimize **Customer Success operations**.  
-  - Develops ETL pipelines, automates workload tracking, an
-
-
 
