@@ -29,6 +29,23 @@ Pipedrive API → Python (ETL) → BigQuery (Raw) → SQL (Dim/Fact) → Looker 
 *All data is simulated and anonymized for portfolio purposes.*
 
 ---
+### Hospital Performance Analytics - ClariHealth  
+**Power BI | DAX | Data Modeling** - [Project link](https://github.com/andrezaumbelino/healthcare-business-analytics)
+
+End-to-end business analysis of hospital performance, transforming raw healthcare data into actionable insights for operational and strategic decision-making.
+
+**Focus:**
+Operational efficiency, revenue drivers, and performance optimization across hospitals.
+
+✔ Star schema data model  
+✔ KPI design (Revenue, LOS, Revenue per Day)  
+✔ Time intelligence with calendar table  
+✔ Executive-level dashboard (Power BI)  
+
+**Key Insight:**  
+Operational efficiency (length of stay) is the primary driver of performance, not clinical mix.
+
+---
 
 ### ⚡ Skills
 - **ETL & Data Modeling**  
