@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://files.catbox.moe/ewt6qj.png" alt="Andreza Umbelino Header" width="1000"/>
-</p>
+
 
 # 👩🏾‍💻 Andreza Umbelino  
 **Data Analyst | Business Intelligence | Data Engineering**  
